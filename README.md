@@ -9,3 +9,4 @@ https://docs.hacknode.org/gopl-zh/ch8/ch8-07.html
 
 * 反射
 * [goroutine池](./goroutine_pool.go)
+* [接口型函数](./handler_func.go)
